@@ -10,9 +10,9 @@
 - ⚡ Fun fact: ...
 
 def Manohar():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner','Django':'Intermidiate','C++':'Intermidiate'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'django', 'tableau']
-  cloud_architecture = ['heroku']
-  Agile_Methodology = ['JIRA']
-  return ∞
+    skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner','Django':'Intermidiate','C++':'Intermidiate'}
+    tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'django', 'tableau']
+    cloud_architecture = ['heroku']
+    Agile_Methodology = ['JIRA']
+    return ∞
 
