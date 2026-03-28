@@ -1,8 +1,7 @@
 ### Hi there 👋! I'm Manohar 
 
-- 🔭 I'm currently pursuing Bachelors of Engineering in Computer Science & Engineering (Final Year) from CGC Landran.
+- 🔭 I'm currently working in EY as a SDE.
 - 🌱 I'm currently learning from Coursera and Kaggle.
-- 💻 I'm looking for an internship in Machine Learning and Data Science.
 - 🤔 🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
 - 🎯 Goal (2021): Contribute openly to Data Science and Machine Learning community
 - 📫 LinkedIn: https://www.linkedin.com/in/manohar-kumar-25a708194/
